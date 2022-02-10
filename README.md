@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Act99&fontAlign=70&fontAlignY=40&animation=twinkling)
 
 <h3>👋 Hi! there!</h3>
-
+<h4>I'm Frontend Web Engineer in Korea</h4>
+<h3>Favorite Tech Stack</h3>
+<h4>Frontend: React(Vanilla JS, TypeScript) / Mobile: Flutter(Dart)</h4>
+<h4>Server side development: NestJS & Express(TypeScript & NodeJS)</h4>
 <h3>📫Contact</h3>
 <p>
   <a href="https://bugerstory.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=Storyblok&logoColor=white"/></a>
