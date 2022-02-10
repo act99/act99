@@ -21,8 +21,6 @@
 <div align="center"><a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Act99-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> <a href="dorxm999@gmail.com"> &nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></div>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
 
  Last Updated on 09/02/2022 18:43:30 UTC
 <!--END_SECTION:waka-->
