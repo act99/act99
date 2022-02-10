@@ -11,6 +11,7 @@
 
 <h3>📌Stack</h3>
 <h4>Technology used<h4>
+
   <h5>Frontend<h5>
 <div>
   <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img>
@@ -24,7 +25,7 @@
 <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Flutter-00BCF6?style=flat-square&logo=Flutter&logoColor=white"></img></a>
-<h5>Backend<h5>
+<h4>Backend<h4>
 <img src="https://img.shields.io/badge/NodeJS-{배경 색깔}?style={스타일}&logo=Node.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/NestJS-000000?style={스타일}&logo=NestJS&logoColor=E0234E"/>  <img src="https://img.shields.io/badge/Express-6BD80B?style=flat-square&logo=Express&logoColor=ffffff"></img>
 </div>
 
