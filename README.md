@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Act99&fontAlign=70&fontAlignY=40&animation=twinkling)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=act99&show_icons=true&theme=radical)
+
 <h3>👋 Hi! there!</h3>
 <h4>I'm Frontend Web Engineer in Korea</h4>
 <h3>Favorite Tech Stack</h3>
@@ -32,7 +34,7 @@
 <img src="https://img.shields.io/badge/NodeJS-{배경 색깔}?style={스타일}&logo=Node.js&logoColor=ffffff"/> <img src="https://img.shields.io/badge/NestJS-000000?style={스타일}&logo=NestJS&logoColor=E0234E"/>  <img src="https://img.shields.io/badge/Express-6BD80B?style=flat-square&logo=Express&logoColor=ffffff"></img>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=act99&show_icons=true&theme=radical)
+
 
 
 
